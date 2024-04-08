@@ -19,8 +19,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-            <button style="width: 200px; height: 40px; background:red; color:white;">Android</button>
-
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+            alt="android" width="200" height="40" style="background-color: red;" />
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="200" height="40" />
