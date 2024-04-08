@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-                   <button style="width: 200px; height: 40px; background:red;">Android</button>
+            <button style="width: 200px; height: 40px; background:red; color:white;">Android</button>
 
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
