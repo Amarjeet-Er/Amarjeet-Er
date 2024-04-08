@@ -27,7 +27,7 @@
         HTML5
     </button>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="200" height="40" />
+        <img src="https://www.canva.com/design/DAGA9wHWN20/udAbxYtYJTKLW5d8zxtsug/edit?utm_content=DAGA9wHWN20&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="angular" width="200" height="40" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
