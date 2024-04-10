@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsg6kmrzfWUz_a1CTJqX0b-fNm3A94ldZzjwur3rqJasMoNnXvfc6IaW-cWBnxNE9lk20lHRM_EkpXIDvG1C0mnPXWy5wGOoMIgVXj1oWjhBW_Sci1chbbbh1n93s3B11QwCrCOHf7ahnt1vCs0KsStECtoQ23_CRgBZPsa7KtZsNB-UjSdfegfXfRcqI4/s1600/Angular.jpg)](https://amarjeet-er)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgREJsCxBnjxB_XW2mu1YgaCVeDU7W6Mtf3-IdSfIMMCQJltyQ-MDojhspA4AImqwxax2bPvzbdSnBJKQaXPHdudVF6vJFztWQ14H9gfkMfJnDix8vkQTnImpTTSbjRCxbkRk8epj6d7xy9EEYkLFd3F31FGnz07mLnRVGC3pLhRw8y3K9ehB08wH-7SE74/s1600/Amarjeet%20Kumar.png)](https://amarjeet-er)
 
 <h1 align="left">I'm Amarjeet Kumar</h1>
 <h3 align="left">Angular Developer from India</h3>
