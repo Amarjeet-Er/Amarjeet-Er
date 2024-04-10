@@ -1,13 +1,9 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsg6kmrzfWUz_a1CTJqX0b-fNm3A94ldZzjwur3rqJasMoNnXvfc6IaW-cWBnxNE9lk20lHRM_EkpXIDvG1C0mnPXWy5wGOoMIgVXj1oWjhBW_Sci1chbbbh1n93s3B11QwCrCOHf7ahnt1vCs0KsStECtoQ23_CRgBZPsa7KtZsNB-UjSdfegfXfRcqI4/s320/Angular.jpg)](https://amarjeet-er)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsg6kmrzfWUz_a1CTJqX0b-fNm3A94ldZzjwur3rqJasMoNnXvfc6IaW-cWBnxNE9lk20lHRM_EkpXIDvG1C0mnPXWy5wGOoMIgVXj1oWjhBW_Sci1chbbbh1n93s3B11QwCrCOHf7ahnt1vCs0KsStECtoQ23_CRgBZPsa7KtZsNB-UjSdfegfXfRcqI4/s320/Angular/2000_600px.jpg)](https://amarjeet-er)
 
 <h1 align="left">I'm Amarjeet Kumar</h1>
 <h3 align="left">Angular Developer from India</h3>
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=amarjeet-er&label=Profile%20views&color=0e75b6&style=flat"  alt="amarjeet-er" />
-</p>
 
 
 - 🔭 Currently working on **E-Commerce Website**
@@ -24,6 +20,10 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbMCIyBiAGXCn1h0qrO-pbbUhAMO-58Fw9vSgeOEbIyKaaas6tB_RgHqXB_iyN2Ir1Tt0eR42nkZ9P3Eib8IiYVm22hTK7tOmV53YYVOYME3JJKnm60CC1t7wCIfrRn4hNwQE9AItqLpR32lgbQO3Uc9-o-5yS91c9WhDM2RxTvAXjmkr5ezwkXWmOQPRx/s320/C++-Programming.png"
             alt="cplusplus" width="150" height="50" />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNaKMrN2Tb90-yqv3O_VarCWMmXwx9z_1E5oCDOERILEn7nTre0V-fNJ8kFJd_2TzBGTyElT8ojjT3RZRxav8HZuIrOYXizbNp09ZWuihdGxAVm2TfMBJf0CeKi2LtuaJQIGb_x4boEeCpdLGHwvZ0Ov87fe68xnAxyuVAjOoNulUBM1PAyMdjavwnUAuY/s320/java-Programming.png"
+            alt="java" width="150" height="50" />
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
