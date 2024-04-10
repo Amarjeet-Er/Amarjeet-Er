@@ -25,7 +25,7 @@
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5WwLvp-7HqBU2su6Px1ysDzStyVYY2YVJycYUSb3xw-MalCmD3JRoy7crtz2ARhVM6a62A7VHb66W9FVVQRXFJCuXAP5Euu030SSR4JCgDJX4_AGVesP6vrK3jjo7kJ8EGtktVMjA-wM62w1YiPSPdRbJY6sGWPpksVRddPt3MvYMX_IUJGYhhGIQxwX/s320/C-Programming.png"
-            alt="c" width="40" height="40" />
+            alt="c" width="200" height="60" />
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
