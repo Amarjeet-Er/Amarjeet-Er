@@ -1,22 +1,16 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://amarjeet-er)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsg6kmrzfWUz_a1CTJqX0b-fNm3A94ldZzjwur3rqJasMoNnXvfc6IaW-cWBnxNE9lk20lHRM_EkpXIDvG1C0mnPXWy5wGOoMIgVXj1oWjhBW_Sci1chbbbh1n93s3B11QwCrCOHf7ahnt1vCs0KsStECtoQ23_CRgBZPsa7KtZsNB-UjSdfegfXfRcqI4/s320/Angular.jpg)](https://amarjeet-er)
 
-<h1 align="center">I'm Amarjeet Kumar</h1>
-<h3 align="center">Angular Developer from India</h3>
+<h1 align="left">I'm Amarjeet Kumar</h1>
+<h3 align="left">Angular Developer from India</h3>
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=amarjeet-er&label=Profile%20views&color=0e75b6&style=flat"
-        alt="amarjeet-er" />
+    <img src="https://komarev.com/ghpvc/?username=amarjeet-er&label=Profile%20views&color=0e75b6&style=flat"  alt="amarjeet-er" />
 </p>
 
-<p align="left">
-    <a href="https://twitter.com/" target="blank">
-        <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-    </a>
-</p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 Currently working on **E-Commerce Website**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
@@ -26,6 +20,10 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5WwLvp-7HqBU2su6Px1ysDzStyVYY2YVJycYUSb3xw-MalCmD3JRoy7crtz2ARhVM6a62A7VHb66W9FVVQRXFJCuXAP5Euu030SSR4JCgDJX4_AGVesP6vrK3jjo7kJ8EGtktVMjA-wM62w1YiPSPdRbJY6sGWPpksVRddPt3MvYMX_IUJGYhhGIQxwX/s320/C-Programming.png"
             alt="c" width="150" height="50" />
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbMCIyBiAGXCn1h0qrO-pbbUhAMO-58Fw9vSgeOEbIyKaaas6tB_RgHqXB_iyN2Ir1Tt0eR42nkZ9P3Eib8IiYVm22hTK7tOmV53YYVOYME3JJKnm60CC1t7wCIfrRn4hNwQE9AItqLpR32lgbQO3Uc9-o-5yS91c9WhDM2RxTvAXjmkr5ezwkXWmOQPRx/s320/C++-Programming.png"
+            alt="cplusplus" width="150" height="50" />
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
@@ -131,10 +129,9 @@
 </p>
 
 <p>&nbsp;
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=amarjeet-er&show_icons=true&locale=en"
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amarjeet-er&show_icons=true&locale=en"
         alt="amarjeet-er" />
-    </p>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeet-er&" alt="amarjeet-er" />
 </p>
