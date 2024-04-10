@@ -2,8 +2,7 @@
 
 <h1 align="left">I'm Amarjeet Kumar</h1>
 <h3 align="left">Angular Developer from India</h3>
-<img align="right" alt="Coding" width="400"
-    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 Currently working on **E-Commerce Website**
