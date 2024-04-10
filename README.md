@@ -21,11 +21,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages</h3>
 <p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" />
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5WwLvp-7HqBU2su6Px1ysDzStyVYY2YVJycYUSb3xw-MalCmD3JRoy7crtz2ARhVM6a62A7VHb66W9FVVQRXFJCuXAP5Euu030SSR4JCgDJX4_AGVesP6vrK3jjo7kJ8EGtktVMjA-wM62w1YiPSPdRbJY6sGWPpksVRddPt3MvYMX_IUJGYhhGIQxwX/s320/C-Programming.png"
+            alt="c" width="40" height="40" />
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
