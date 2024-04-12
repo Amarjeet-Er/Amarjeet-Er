@@ -23,10 +23,6 @@
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbMCIyBiAGXCn1h0qrO-pbbUhAMO-58Fw9vSgeOEbIyKaaas6tB_RgHqXB_iyN2Ir1Tt0eR42nkZ9P3Eib8IiYVm22hTK7tOmV53YYVOYME3JJKnm60CC1t7wCIfrRn4hNwQE9AItqLpR32lgbQO3Uc9-o-5yS91c9WhDM2RxTvAXjmkr5ezwkXWmOQPRx/s320/C++-Programming.png"
             alt="cplusplus" width="150" height="50" />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcfvi8r97LnznoQJuPB4vjCEIyJmWI2XfiiFNAmXuCgiKwAZCHgYWJCCHnA1aOAY5_dap65zz476SmRFJiWgxicppV_gFLxoHcmjI8x_6wzjCyowFjm8KaA5FO-81bgfnn42KiIVZ4W-1R5bqjUg3lEQwmcjGXnKAvilQFx0E_O-iUTkO2Mk6YRPVIwZOA/s200/python-Programming.png"
-            alt="Python" width="150" height="50" />
-    </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixnjx23CXHpgTRFf2MtrF7URm4qUsXZkCh_UT_yPeTvqXR667MdKDRyLRqjeGX7qc5W2lm7-4QFDsgrmpolaV3Cfi1t3-s1SRxi-HsKHSaWtQIq_OHgm0rsqL2AyaPvM5Hoiva7lB38ki12xHkF8eOvo5JaZHcIiyN6ZS3VXy0YPy1uwqsUrRmuywOyo9M/s200/php-Programming.png"
             alt="php" width="150" height="50" />
