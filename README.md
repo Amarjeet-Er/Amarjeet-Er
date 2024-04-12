@@ -24,6 +24,23 @@
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNaKMrN2Tb90-yqv3O_VarCWMmXwx9z_1E5oCDOERILEn7nTre0V-fNJ8kFJd_2TzBGTyElT8ojjT3RZRxav8HZuIrOYXizbNp09ZWuihdGxAVm2TfMBJf0CeKi2LtuaJQIGb_x4boEeCpdLGHwvZ0Ov87fe68xnAxyuVAjOoNulUBM1PAyMdjavwnUAuY/s320/java-Programming.png"
             alt="java" width="150" height="50" />
     </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcfvi8r97LnznoQJuPB4vjCEIyJmWI2XfiiFNAmXuCgiKwAZCHgYWJCCHnA1aOAY5_dap65zz476SmRFJiWgxicppV_gFLxoHcmjI8x_6wzjCyowFjm8KaA5FO-81bgfnn42KiIVZ4W-1R5bqjUg3lEQwmcjGXnKAvilQFx0E_O-iUTkO2Mk6YRPVIwZOA/s200/python-Programming.png"
+            alt="Python" width="150" height="50" />
+    </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixnjx23CXHpgTRFf2MtrF7URm4qUsXZkCh_UT_yPeTvqXR667MdKDRyLRqjeGX7qc5W2lm7-4QFDsgrmpolaV3Cfi1t3-s1SRxi-HsKHSaWtQIq_OHgm0rsqL2AyaPvM5Hoiva7lB38ki12xHkF8eOvo5JaZHcIiyN6ZS3VXy0YPy1uwqsUrRmuywOyo9M/s200/php-Programming.png"
+            alt="php" width="150" height="50" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij40NUJowjpcRUBnw6SjU56u5gUmZFaggl3vmJjl1CHHM5wQv9Imo_iOcfABRXcyEY0b0CQuHU04pMRS1GcviSaQ7HZwmJlh3NCWlWGqX09F0kDbCvoIv-DreTS6mr2irsx_DhKoO99zKke0alFk9ILDT7EmH7n77AQGly3E-kaRyPhpB3DYdRzYiOITMM/s200/js-Programming.png"
+            alt="javascript" width="150" height="50" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFzTU6yakVbkUad7E-7v_L942fWAmbiJm4ugQBWRWdxrhF-Z0xw4p2v5h7YKxGzW2F4AUCaYXskg2QG7kZJ8EJTCWg1qr00rwZOna7xBGelPamwnbYdt5rSYOCRPLFyV4Dk58NXDt4z8VHnMw3W_9HbdEedcShRnLTVtCNUPnV6dF4ireoaerZ1dyiGptS/s200/ts-Programming.png"
+            alt="typescript" width="150" height="50" />
+    </a>
+    <h3 align="left">Frontend Development</h3>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a>
