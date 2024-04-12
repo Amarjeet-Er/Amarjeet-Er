@@ -16,14 +16,15 @@
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5WwLvp-7HqBU2su6Px1ysDzStyVYY2YVJycYUSb3xw-MalCmD3JRoy7crtz2ARhVM6a62A7VHb66W9FVVQRXFJCuXAP5Euu030SSR4JCgDJX4_AGVesP6vrK3jjo7kJ8EGtktVMjA-wM62w1YiPSPdRbJY6sGWPpksVRddPt3MvYMX_IUJGYhhGIQxwX/s320/C-Programming.png"
             alt="c" width="150" height="50" />
     </a>
+       <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNaKMrN2Tb90-yqv3O_VarCWMmXwx9z_1E5oCDOERILEn7nTre0V-fNJ8kFJd_2TzBGTyElT8ojjT3RZRxav8HZuIrOYXizbNp09ZWuihdGxAVm2TfMBJf0CeKi2LtuaJQIGb_x4boEeCpdLGHwvZ0Ov87fe68xnAxyuVAjOoNulUBM1PAyMdjavwnUAuY/s320/java-Programming.png"
+            alt="java" width="150" height="50" />
+    </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbMCIyBiAGXCn1h0qrO-pbbUhAMO-58Fw9vSgeOEbIyKaaas6tB_RgHqXB_iyN2Ir1Tt0eR42nkZ9P3Eib8IiYVm22hTK7tOmV53YYVOYME3JJKnm60CC1t7wCIfrRn4hNwQE9AItqLpR32lgbQO3Uc9-o-5yS91c9WhDM2RxTvAXjmkr5ezwkXWmOQPRx/s320/C++-Programming.png"
             alt="cplusplus" width="150" height="50" />
     </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNaKMrN2Tb90-yqv3O_VarCWMmXwx9z_1E5oCDOERILEn7nTre0V-fNJ8kFJd_2TzBGTyElT8ojjT3RZRxav8HZuIrOYXizbNp09ZWuihdGxAVm2TfMBJf0CeKi2LtuaJQIGb_x4boEeCpdLGHwvZ0Ov87fe68xnAxyuVAjOoNulUBM1PAyMdjavwnUAuY/s320/java-Programming.png"
-            alt="java" width="150" height="50" />
-    </a>
+ 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcfvi8r97LnznoQJuPB4vjCEIyJmWI2XfiiFNAmXuCgiKwAZCHgYWJCCHnA1aOAY5_dap65zz476SmRFJiWgxicppV_gFLxoHcmjI8x_6wzjCyowFjm8KaA5FO-81bgfnn42KiIVZ4W-1R5bqjUg3lEQwmcjGXnKAvilQFx0E_O-iUTkO2Mk6YRPVIwZOA/s200/python-Programming.png"
             alt="Python" width="150" height="50" />
