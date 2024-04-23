@@ -2,7 +2,8 @@
 
 <h1 align="left">I'm Amarjeet Kumar</h1>
 <h3 align="left">Angular Developer from India</h3>
-<img align="right" alt="Coding" width="350" src="https://media.licdn.com/dms/image/D5603AQGo3Thg09geHg/profile-displayphoto-shrink_400_400/0/1703704807648?e=1719446400&v=beta&t=6epCIeibpUst86pJxnK8dpLdYAjKQzuwi55Sp-22GCc">
+<img align="right" alt="Coding" width="350"
+    src="https://media.licdn.com/dms/image/D5603AQGo3Thg09geHg/profile-displayphoto-shrink_400_400/0/1703704807648?e=1719446400&v=beta&t=6epCIeibpUst86pJxnK8dpLdYAjKQzuwi55Sp-22GCc">
 
 
 - 🔭 Currently working on **E-Commerce Website**
@@ -34,7 +35,9 @@
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFzTU6yakVbkUad7E-7v_L942fWAmbiJm4ugQBWRWdxrhF-Z0xw4p2v5h7YKxGzW2F4AUCaYXskg2QG7kZJ8EJTCWg1qr00rwZOna7xBGelPamwnbYdt5rSYOCRPLFyV4Dk58NXDt4z8VHnMw3W_9HbdEedcShRnLTVtCNUPnV6dF4ireoaerZ1dyiGptS/s200/ts-Programming.png"
             alt="typescript" width="150" height="50" />
     </a>
+
 <h3 align="left">Frontend Development</h3>
+
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRtJ2iqiumS9lVWnKViwdOsC5of8qUzLqKGPanKMChJtZhpvjq4YKZpFtOfO9SaWFUw_GUjO-l8DDPMTuZcFOUykEswaUkOKimOvgQBFriCDouhXpJSRLyg9pOLwXAa1VFcDouubIkOYiQ8z4jyyIMiqCwURk80hbGhTe-e2FNjUHO8B_IpqLd4bzEw2Vl/s200/html%20%281%29.png"
         alt="html5" width="150" height="50" />
@@ -51,10 +54,13 @@
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifI7yar7b_lfZZDulpiKkn1FdqCay33E7rwZJPv-0lN_lHqX9xNXiKF4nal7Ohq4bQFel0MFDNAdQoft2iXUUmq7vAjG8wa-ixSAikr7IczdAr8kE9LmdGKy6aQlEvN5F9SVJNntsz5kbVWUgctRt3LkR1TN3kkKcMJ5l0LWfOBjGPpTEtqziGMVwrDjeW/s200/Angular.png"
         alt="Angular" width="150" height="50" />
 </a>
+
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyBrO7xxQWPE7BTyRWYIuRv6M0cO-Z2jLmhzGSszcBEWZe7jC4yBJnyL3hl4RnErDPDKdiv7KdJY6MmOKCbtJG98ZxYVUzn8OQDQSc337_xRQ7mSUah_BuQmeIlqHpO2FRGghfetinJruQYnnZqKkgoY3u7MoiV0AQabDorF3myl_oPlNsNs5E_m5SPYCF/s200/react.png"
         alt="React" width="150" height="50" />
 </a>
+
+<h3 align="left">Mobile App Development</h3>
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
