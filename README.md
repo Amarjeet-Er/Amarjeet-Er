@@ -2,7 +2,7 @@
 
 <h1 align="left">I'm Amarjeet Kumar</h1>
 <h3 align="left">Angular Developer from India</h3>
-<img align="right" alt="Coding" width="380" style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D5603AQGo3Thg09geHg/profile-displayphoto-shrink_400_400/0/1703704807648?e=1719446400&v=beta&t=6epCIeibpUst86pJxnK8dpLdYAjKQzuwi55Sp-22GCc">
+<img align="right" alt="Coding" width="380" style="border-radius: 50px;" src="https://media.licdn.com/dms/image/D5603AQGo3Thg09geHg/profile-displayphoto-shrink_400_400/0/1703704807648?e=1719446400&v=beta&t=6epCIeibpUst86pJxnK8dpLdYAjKQzuwi55Sp-22GCc">
 
 
 - 🔭 Currently working on **E-Commerce Website**
