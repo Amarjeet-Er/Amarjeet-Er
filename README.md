@@ -51,10 +51,6 @@
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifI7yar7b_lfZZDulpiKkn1FdqCay33E7rwZJPv-0lN_lHqX9xNXiKF4nal7Ohq4bQFel0MFDNAdQoft2iXUUmq7vAjG8wa-ixSAikr7IczdAr8kE9LmdGKy6aQlEvN5F9SVJNntsz5kbVWUgctRt3LkR1TN3kkKcMJ5l0LWfOBjGPpTEtqziGMVwrDjeW/s200/Angular.png"
         alt="Angular" width="150" height="50" />
 </a>
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifI7yar7b_lfZZDulpiKkn1FdqCay33E7rwZJPv-0lN_lHqX9xNXiKF4nal7Ohq4bQFel0MFDNAdQoft2iXUUmq7vAjG8wa-ixSAikr7IczdAr8kE9LmdGKy6aQlEvN5F9SVJNntsz5kbVWUgctRt3LkR1TN3kkKcMJ5l0LWfOBjGPpTEtqziGMVwrDjeW/s200/Angular.png"
-        alt="Angular" width="150" height="50" />
-</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyBrO7xxQWPE7BTyRWYIuRv6M0cO-Z2jLmhzGSszcBEWZe7jC4yBJnyL3hl4RnErDPDKdiv7KdJY6MmOKCbtJG98ZxYVUzn8OQDQSc337_xRQ7mSUah_BuQmeIlqHpO2FRGghfetinJruQYnnZqKkgoY3u7MoiV0AQabDorF3myl_oPlNsNs5E_m5SPYCF/s200/react.png"
         alt="React" width="150" height="50" />
