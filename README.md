@@ -35,18 +35,31 @@
             alt="typescript" width="150" height="50" />
     </a>
 <h3 align="left">Frontend Development</h3>
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRtJ2iqiumS9lVWnKViwdOsC5of8qUzLqKGPanKMChJtZhpvjq4YKZpFtOfO9SaWFUw_GUjO-l8DDPMTuZcFOUykEswaUkOKimOvgQBFriCDouhXpJSRLyg9pOLwXAa1VFcDouubIkOYiQ8z4jyyIMiqCwURk80hbGhTe-e2FNjUHO8B_IpqLd4bzEw2Vl/s200/html%20%281%29.png"
+        alt="html5" width="150" height="50" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjynvp_qVbo2YQKXMM06m98JeGCdZHwPz33QJ3B10IfB2sCckfO0qXZYSbdFYtlkF5uerVQfz6CBEMLrllFrFZLRwd6Wk4AqgVYEq26o9lS3EEaUzsia_hKwW5jOXetdm49QLm4JU1RFKon4CP9KhIdJfAoB3KIGgnY8o7Bpxi7KtVJ90UbWkQt05leFjyG/s200/css.png"
+        alt="css3" width="150" height="50" />
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="40" height="40" />
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1IcPX22aDxDAMBw9y_APZcOURLYikNM9MQxtzyz_w7ScwG4lpVCTlbA9mT_kzq99mx02DrNxeHmfe-NRnumvJLhykytjBk4SHgx2pDFP0YQToctMtO29clR5Y8L_Xhyn_EIacr6E5z1_Ip-BxDSSSiT75QslxltRzljQj70NVVwBrPitAbPWIKP7O0RCG/s200/Bootstrap.png"
+        alt="Bootstrap" width="150" height="50" />
+</a>
+<a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifI7yar7b_lfZZDulpiKkn1FdqCay33E7rwZJPv-0lN_lHqX9xNXiKF4nal7Ohq4bQFel0MFDNAdQoft2iXUUmq7vAjG8wa-ixSAikr7IczdAr8kE9LmdGKy6aQlEvN5F9SVJNntsz5kbVWUgctRt3LkR1TN3kkKcMJ5l0LWfOBjGPpTEtqziGMVwrDjeW/s200/Angular.png"
+        alt="Angular" width="150" height="50" />
+</a>
+<a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifI7yar7b_lfZZDulpiKkn1FdqCay33E7rwZJPv-0lN_lHqX9xNXiKF4nal7Ohq4bQFel0MFDNAdQoft2iXUUmq7vAjG8wa-ixSAikr7IczdAr8kE9LmdGKy6aQlEvN5F9SVJNntsz5kbVWUgctRt3LkR1TN3kkKcMJ5l0LWfOBjGPpTEtqziGMVwrDjeW/s200/Angular.png"
+        alt="Angular" width="150" height="50" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyBrO7xxQWPE7BTyRWYIuRv6M0cO-Z2jLmhzGSszcBEWZe7jC4yBJnyL3hl4RnErDPDKdiv7KdJY6MmOKCbtJG98ZxYVUzn8OQDQSc337_xRQ7mSUah_BuQmeIlqHpO2FRGghfetinJruQYnnZqKkgoY3u7MoiV0AQabDorF3myl_oPlNsNs5E_m5SPYCF/s200/react.png"
+        alt="React" width="150" height="50" />
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3" width="40" height="40" />
-</a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 </a>
@@ -95,13 +108,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
 </a>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" />
-</a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-</a>
 
 </p>
 
